@@ -9,8 +9,8 @@
 
 <br><br>
 
-## 🚀 تنظیمات اولیه (یک بار انجام بده)
-
+## 🚀 تنظیمات اولیه (یک بار انج..ه)
+ascsac9
 ### ۱. این ریپو رو فورک کن
 ### ۲. برو به **Settings → Actions → General**
 ### ۳. در بخش **Workflow permissions** گزینه **Read and write permissions** رو انتخاب کن و **Save** رو بزن.
